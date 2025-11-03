@@ -2,6 +2,8 @@
 
 A real-time carpooling platform built with Vue.js and Firebase, **designed to connect DePauw University students** for shared rides—solving transportation gaps in a cost-effective, community-first way.
 
+https://github.com/user-attachments/assets/8a8d3357-0372-436b-b94a-faecc6e5ef4e
+
 ## 📌 Overview
 
 **DeRiver** empowers students without personal vehicles by matching them with peers who have cars. The platform enables seamless trip coordination, transparent communication, and real-time updates—all within a responsive, mobile-friendly interface.
